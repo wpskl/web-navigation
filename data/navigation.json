@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": "mv6nvthmr04jlm",
+      "name": "分类名称1",
+      "collapsed": false,
+      "displayMode": "tile",
+      "children": [
+        {
+          "id": "mv6nw6xudotyy8",
+          "name": "子分类名称a",
+          "collapsed": false,
+          "displayMode": "card",
+          "children": [],
+          "links": [
+            {
+              "id": "mv6nwuisz85ze1",
+              "url": "https://www.doubao.com/",
+              "title": "豆包",
+              "description": "Seedance 2.0 视频生成模型现已全面接入豆包，现在登录即可免费使用！豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题",
+              "favicon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon-doubao.png",
+              "tags": [],
+              "colorIndex": 0
+            },
+            {
+              "id": "mv6nxz91fd5xxn",
+              "url": "https://www.google.com/",
+              "title": "https://www.google.com/",
+              "description": "",
+              "favicon": "https://www.google.com/favicon.ico",
+              "tags": [],
+              "colorIndex": 1
+            }
+          ]
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "mv6nvxsy7k6wqd",
+      "name": "分类名称2",
+      "collapsed": false,
+      "displayMode": "tile",
+      "children": [],
+      "links": []
+    }
+  ]
+}
